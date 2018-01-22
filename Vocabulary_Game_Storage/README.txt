@@ -1,0 +1,1 @@
+This is a project idea I came up with after thinking about projects involving "hotel reservation" systems. I am currently learning Japanese, and I figured I could work on a tool that let someone organize,sort, and add vocabulary words. I plan on expanding this to include virtually anything that can be sorted and learned. (eg. audio, pictures, etc.)
